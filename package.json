@@ -22,7 +22,11 @@
     "ts-loader": "^8.2.0",
     "typescript": "^4.6.3"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.5.3"
+  },
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
