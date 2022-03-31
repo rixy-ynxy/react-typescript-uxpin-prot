@@ -6,7 +6,6 @@ module.exports = {
         include: [
           'stories/Button.tsx',
           'stories/Header.tsx',
-          'stories/Page.tsx',
         ]
       }
     ],
